@@ -1,0 +1,67 @@
+.view {
+    background: url("https://mdbootstrap.com/img/Photos/Others/img (40).jpg")no-repeat center center;
+    background-size: cover;
+}
+
+
+.navbar {
+    background-color: rgb(247, 247, 247);
+    height: 75px;
+}
+
+.nav2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.textcolor{
+    color: black;
+    font-size: 30px;
+    
+}
+
+.top-nav-collapse {
+    background-color: #4285F4;
+}
+.form{
+    margin-top: 100px;
+    /* background-color: chartreuse; */
+}
+
+.form-control{
+    height: 65px;
+}
+.btn1{
+    background-color: blueviolet;
+    color: white;
+}
+.SecandDiv{
+    margin-top: 100px;
+}
+.img{
+ width: 40px;
+ height: 40px;
+}
+.img1{
+    width: 100px;
+    height: 75px;
+    color: gray;
+    margin-left:-15px;
+   }
+.first{
+    margin-left:50px;
+    margin-top:25px;
+}
+.p1{
+    font-size: 22px;
+}
+.h11{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.icon{
+    position: absolute;
+    left: 15px;
+    bottom: 37px;
+    color: blueviolet;
+}
